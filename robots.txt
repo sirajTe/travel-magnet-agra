@@ -1,0 +1,3 @@
+# Demo website – not for indexing yet. Set "demo": false in the config and rebuild to go live.
+User-agent: *
+Disallow: /
